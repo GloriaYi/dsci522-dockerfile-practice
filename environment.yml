@@ -1,0 +1,8 @@
+name: 522-ind-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - pandas=2.2.1
+prefix: /Users/gloriay/miniforge3/envs/522-ind-env
